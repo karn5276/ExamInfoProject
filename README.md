@@ -5,3 +5,5 @@ added starting html part
 
 added bootstrap for making a responsive website
 added category part at navbar.
+
+added css part and make  the responsive.

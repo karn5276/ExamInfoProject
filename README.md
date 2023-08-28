@@ -7,3 +7,6 @@ added bootstrap for making a responsive website
 added category part at navbar.
 
 added css part and make  the responsive.
+added new science.html file.
+
+added navbar in science.html file.

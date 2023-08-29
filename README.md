@@ -12,3 +12,5 @@ added new science.html file.
 added navbar in science.html file.
 
 added in the science.html
+
+added science.css file to make responsive website.

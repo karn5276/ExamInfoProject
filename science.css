@@ -1,0 +1,14 @@
+
+@media only screen and (max-width: 450px){
+    #nav2div{
+        display: none;
+    }
+    #nav1btn{
+        display: none;
+    }
+  
+    #logo{
+        display: none;
+    }
+    
+}

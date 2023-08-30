@@ -1,7 +1,49 @@
+
 @media only screen and (max-width: 450px){
-    #drop_down{
-        width: 376px !important;
+    #nav2div{
+        display: none;
+    }
+    #nav1btn{
+        display: none;
+    }
+  
+    #logo{
+        display: none;
+    }
+    .form2{
+        display: inline !important;
+
+    }
+    #smallDiv{
+        display: inline !important;
+        width: 60%;
+      
+    }
+}
+
+@media only screen and (min-width:450px) and (max-width: 964px){
+    #nav2div{
+        display: none;
+    }
+    #nav1btn{
+        display: none;
+    }
+    #form2{
+        display: inline !important;
+
     }
 
+    
 
+}
+#form2{
+    display: none;
+}
+h4{
+    font-family: 'Ruwudu', serif;
+    margin-top:10px;
+    text-decoration: underline;
+}
+.options{
+cursor: pointer;
 }

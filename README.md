@@ -17,4 +17,6 @@ added science.css file to make responsive website.
 
 added new part of in scicenc.html file.
 
+added some js part.
+
 added style.css file

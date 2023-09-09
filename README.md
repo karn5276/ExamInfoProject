@@ -19,4 +19,6 @@ added new part of in scicenc.html file.
 
 added some js part.
 
+create one more html page art.html
+
 added style.css file

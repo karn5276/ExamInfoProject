@@ -22,3 +22,5 @@ added some js part.
 create one more html page art.html
 
 added style.css file
+
+added aboutus file and navbar in it.

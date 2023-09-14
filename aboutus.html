@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
   <style>
-    .active{
+    .active11{
       display: none;
     }
   </style>
@@ -64,18 +64,17 @@
     <div class="container-fluid" style="background-color: antiquewhite; margin-top: 70px;">
   
       <div class="row" style="display: flex; justify-content: center;">
-        <div class="col-md-5 col-10 bg-primary">
+        <div class="col-md-5 col-10">
            <div>
             <h2>ABOUT US</h2>
            </div>
            <div style="text-align: start;">
              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, alias repellat modi laborum eveniet ab nulla ea in architecto ad.
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis inventore blanditiis, quia officiis adipisci vitae amet similique error illum, quaerat optio voluptate voluptatibus harum accusamus facere qui nesciunt provident...<p id="inner_par">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, perferendis.</p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis inventore blanditiis, quia officiis adipisci vitae amet similique error illum, quaerat optio voluptate voluptatibus harum accusamus facere qui nesciunt provident...<p id="inner_par" class="active11">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus dolorem non corrupti sint iure voluptas tempora unde expedita in nisi, dicta vel error iste quisquam tempore, minima dignissimos! Quis saepe ipsa in cupiditate accusamus quasi, corporis aliquid atque beatae corrupti.</p>
              </p>
            </div>
            <div>
-            <button id="btn1"  style="background-color: rgb(73, 72, 72); color: white;">Read more</button>
-            <button id="btn2" class="active" style="background-color: rgb(73, 72, 72); color: white;">Show less</button>
+            <button id="btn" style="background-color: rgb(73, 72, 72); color: white;">Read more</button>
            </div>
            <div class="mt-3" style="display: flex; gap: 18px; ">
             <i class="fa-brands fa-instagram" style="font-size: 25px; color: rgb(112, 34, 34);"></i>
@@ -101,10 +100,7 @@
 
       btn1.addEventListener("click",()=>{
         console.log(btn.innerText);
-        inner_par.classList.toggle("active");
-        
-      
-        
+        inner_par.classList.toggle("active11");
       })
 
 

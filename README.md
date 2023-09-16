@@ -29,3 +29,4 @@ update about.html
 add js part in aboutus file.
 
 create new contactUs file.
+update aboutus file.

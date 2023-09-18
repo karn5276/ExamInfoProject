@@ -23,6 +23,7 @@ create one more html page art.html
 
 added style.css file
 
+
 added aboutus file and navbar in it.
 
 update about.html
@@ -30,3 +31,5 @@ add js part in aboutus file.
 
 create new contactUs file.
 update aboutus file.
+
+update

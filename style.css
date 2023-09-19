@@ -47,3 +47,30 @@ h4{
 .options{
 cursor: pointer;
 }
+
+
+#mini{
+    background-image: url(blur1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100vw; */
+    height: 100vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    /* background-repeat: */
+    color: white;
+    flex-direction: column;
+}
+#mini1{
+    position: relative;
+    top: 100px;
+    background-color: red;
+}
+#mini2{
+    position: relative;
+    top: 100px;
+    background-color: blue;
+    text-align: end;
+    width: 30%;
+}

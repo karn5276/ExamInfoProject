@@ -107,3 +107,15 @@ cursor: pointer;
     align-items: space-evenly;
     text-align: center;
 }
+
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif !important;
+    /* all for footer to stick at bottom  start*/  
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#wraper{
+    flex: 1;
+}
